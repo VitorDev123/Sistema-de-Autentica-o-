@@ -1,0 +1,14 @@
+F:\PROJETOS2\Sistema de autenticação\bin\Debug\net8.0\Sistema de autenticação.exe
+F:\PROJETOS2\Sistema de autenticação\bin\Debug\net8.0\Sistema de autenticação.deps.json
+F:\PROJETOS2\Sistema de autenticação\bin\Debug\net8.0\Sistema de autenticação.runtimeconfig.json
+F:\PROJETOS2\Sistema de autenticação\bin\Debug\net8.0\Sistema de autenticação.dll
+F:\PROJETOS2\Sistema de autenticação\bin\Debug\net8.0\Sistema de autenticação.pdb
+F:\PROJETOS2\Sistema de autenticação\obj\Debug\net8.0\Sistema de autenticação.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJETOS2\Sistema de autenticação\obj\Debug\net8.0\Sistema de autenticação.AssemblyInfoInputs.cache
+F:\PROJETOS2\Sistema de autenticação\obj\Debug\net8.0\Sistema de autenticação.AssemblyInfo.cs
+F:\PROJETOS2\Sistema de autenticação\obj\Debug\net8.0\Sistema de autenticação.csproj.CoreCompileInputs.cache
+F:\PROJETOS2\Sistema de autenticação\obj\Debug\net8.0\Sistema de autenticação.dll
+F:\PROJETOS2\Sistema de autenticação\obj\Debug\net8.0\refint\Sistema de autenticação.dll
+F:\PROJETOS2\Sistema de autenticação\obj\Debug\net8.0\Sistema de autenticação.pdb
+F:\PROJETOS2\Sistema de autenticação\obj\Debug\net8.0\Sistema de autenticação.genruntimeconfig.cache
+F:\PROJETOS2\Sistema de autenticação\obj\Debug\net8.0\ref\Sistema de autenticação.dll
